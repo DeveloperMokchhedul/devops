@@ -23,6 +23,7 @@ sudo chmod 666 /var/run/docker.sock
 #run docker commands to install sonarqube
 docker run -d --name sonarqube -p 9000:9000 sonarqube:lts-community
 
+# add more installation tools
 
 
   
